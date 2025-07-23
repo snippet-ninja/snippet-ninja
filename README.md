@@ -37,23 +37,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash" />
 </div>
 
-- **Cloud & Infra:** AWS, Azure, GCP, Kubernetes, OpenShift, Crossplane, Terraform, Pulumi, Docker  
-- **CI/CD & Automation:** GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize  
-- **Monitoring & Security:** Prometheus, Grafana, Vault, ELK, OPA, Trivy, Snyk  
-- **Developer Experience:** Backstage, Internal Developer Portals, GitOps, IaC, PaC  
+- **Cloud & Infra:** AWS, Azure, GCP, Kubernetes, OpenShift, Crossplane, Terraform, Pulumi, Docker
+- **CI/CD & Automation:** GitHub Actions, GitLab CI, Jenkins, ArgoCD, Helm, Kustomize
+- **Monitoring & Security:** Prometheus, Grafana, Vault, ELK, OPA, Trivy, Snyk
+- **Developer Experience:** Backstage, Internal Developer Portals, GitOps, IaC, PaC
 - **Languages:** Python, Go, Bash, YAML
 
 ---
 
 ## 🌟 Featured Projects
+Here are a few of my highlighted projects — others are private due to client agreements.
 
-🧰 **[Secure FinTech Delivery Pipeline](#)**  
+🧰 [Secure FinTech Delivery Pipeline](#)  
 > A robust, SOC2/ISO-compliant CI/CD pipeline for FinTech using GitHub Actions, Terraform, SPDX, and Netlify.
 
-🌐 **[Continuous Compliance for CI/CD](#)**  
+🌐 [Continuous Compliance for CI/CD](#)  
 > Open-source CI/CD templates for regulated financial environments with SPDX-based license scanning & GitOps workflows.
 
-☁️ **[Automated Multi-Cloud Disaster Recovery](#)**  
+☁️ [Automated Multi-Cloud Disaster Recovery](#)  
 > DR framework for Kubernetes clusters across AWS & GCP with ArgoCD, Vault, and Prometheus.
 
 📂 (More coming soon — stay tuned!)
@@ -71,8 +72,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/github-contribution-grid-snake.svg" alt="Pacman eating contributions" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
 > ✨ *Thanks for visiting! Drop me a message if you want to collaborate on cloud, DevOps, or platform engineering projects.*
+
